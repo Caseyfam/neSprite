@@ -1,0 +1,7 @@
+C:\Users\robob\source\repos\neSprite\neSprite\bin\Debug\neSprite.exe.config
+C:\Users\robob\source\repos\neSprite\neSprite\bin\Debug\neSprite.exe
+C:\Users\robob\source\repos\neSprite\neSprite\bin\Debug\neSprite.pdb
+C:\Users\robob\source\repos\neSprite\neSprite\obj\Debug\neSprite.csprojResolveAssemblyReference.cache
+C:\Users\robob\source\repos\neSprite\neSprite\obj\Debug\neSprite.csproj.CoreCompileInputs.cache
+C:\Users\robob\source\repos\neSprite\neSprite\obj\Debug\neSprite.exe
+C:\Users\robob\source\repos\neSprite\neSprite\obj\Debug\neSprite.pdb
